@@ -1,7 +1,6 @@
 # TeamTeach Application - Assignment 2
 
-**Students:** James Manson (s4097015), (s4089419)
-**GitHub Link:** https://github.com/rmit-fsd-2025-s1/s4097015-s4089419-a2
+**Students:** James Manson and Trenton Ma
 
 ## Project Overview
 
