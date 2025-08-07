@@ -1,0 +1,39 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.13.8",
+    "@apollo/server": "^4.12.2",
+    "@chakra-ui/react": "^2.10.9",
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "express": "^5.1.0",
+    "framer-motion": "^12.16.0",
+    "graphql": "^16.11.0",
+    "graphql-tag": "^2.12.6",
+    "mysql2": "^3.14.1",
+    "next": "15.3.3",
+    "nodemon": "^3.1.10",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "typeorm": "^0.3.24"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "15.3.3",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}
